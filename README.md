@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Chandika Wagle
 
+  - 🔭 I’m a student
+  - 🌱 I’m always learning
+  
 <!--
 **chandika03/chandika03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,10 +2,10 @@
 <!--<h3 align="center">A passionate student from Nepal.</h3>-->
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 </br>
- </br>
+<!--  </br>
 - 🔭 I’m currently working on <b>Ink-Craft</b>
 </br>
-- 🌱 I’m currently learning <b>Python</b>
+- 🌱 I’m currently learning <b>Python</b> -->
  
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandika03&label=Profile%20views&color=0e75b6&style=flat" alt="chandika03" /> </p>

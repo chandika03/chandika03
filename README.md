@@ -7,6 +7,7 @@
 <!-- I’m currently working on <b>Ink-Craft</b> -->
 </br>
 - 🌱 Growing
+- 📖 Learning
 <!-- I’m currently learning <b>Python</b> -->
  
 <!--
